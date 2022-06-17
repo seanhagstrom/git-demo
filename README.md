@@ -4,6 +4,4 @@
   <br>
 - this is another bullet
 
-<hr>
-
 ## this is a subheading
